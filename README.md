@@ -15,7 +15,6 @@
 ## 💻 Software Skills & Tools
 <!---
 <div>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="display: inline-block;"><img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="35" height="35" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="35" height="35" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="35" height="35" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="35" height="35" /></a>
@@ -53,6 +52,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-333?style=flat&logo=Raspberry%20Pi&logoColor=A22846)
 --->
 
+![Flutter](https://img.shields.io/badge/-Flutter-ED8B00?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
