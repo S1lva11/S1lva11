@@ -52,7 +52,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-333?style=flat&logo=Raspberry%20Pi&logoColor=A22846)
 --->
 
-![Flutter](https://img.shields.io/badge/-Flutter-ED8B00?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-3FB6D3?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
